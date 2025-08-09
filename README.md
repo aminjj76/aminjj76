@@ -26,9 +26,16 @@ I enjoy transforming ideas into reality, solving real-world problems with techno
 ## 📌 Featured Projects  
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [🔹 AI Chatbot](#) | Conversational AI with NLP | Python, TensorFlow |
-| [🔹 ML Pipeline](#) | End-to-end data processing & model training | Python, scikit-learn |
-| [🔹 Password Generator](#) | Secure password management tool | Python, SQLite |
+| [🔹alarmclock](https://github.com/aminjj76/alarmclock) | Simple desktop alarm clock built with PyQt5 | Python, PyQt5 |
+| [🔹countdowntimer](https://github.com/aminjj76/countdown_timer) | A simple countdown timer application built with PyQt5 | Python, PyQt5  |
+| [🔹Passwordmangement ](https://github.com/aminjj76/passwordmanger) | Secure password management tool | Python, SQLite |
+| [🔹to_do_list](https://github.com/aminjj76/to_do_list) | A simple desktop to-do list application | Python, SQLite,PyQt5 |
+| [🔹hospital_db_deskapp](https://github.com/aminjj76/hospital_db_deskapp) | A modern desktop application for hospital management | Python, SQLite,PyQt5 |
+| [🔹price-finder-docker](https://github.com/aminjj76/price-finder-docker) | an app can get price of a product from other platforms like basalalm ,torob and digikala and suggest price for this product | Python |
+
+
+
+
 
 ---
 
