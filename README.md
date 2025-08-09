@@ -5,7 +5,7 @@
 
 # 👋 Hi there! I'm Amin  
 
-💻 **Python Developer** | 🤖 **Machine Learning Enthusiast** | 🧠 **AI Explorer**  
+💻 **Jonior Python Developer** | 🤖 **Machine Learning Enthusiast** | 🧠 **AI Explorer**  
 
 ---
 
@@ -16,7 +16,7 @@ I enjoy transforming ideas into reality, solving real-world problems with techno
 ---
 
 ## 🛠️ Skills  
-- **Languages:** Python 🐍, SQL, JavaScript  
+- **Languages:** Python 🐍, SQL,   
 - **AI/ML:** scikit-learn, TensorFlow, PyTorch  
 - **Tools:** Git & GitHub, Docker, Linux  
 - **Other:** REST APIs, Data Analysis, Automation  
