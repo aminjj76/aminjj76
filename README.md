@@ -1,4 +1,4 @@
-<!-- بنر بالای پروفایل -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/aminjj76/aminjj76/main/banner.png" alt="Banner" width="100%">
 </p>
@@ -16,10 +16,10 @@ I enjoy transforming ideas into reality, solving real-world problems with techno
 ---
 
 ## 🛠️ Skills  
-- **Languages:** Python 🐍, SQL,   
-- **AI/ML:** scikit-learn, TensorFlow, PyTorch  
+- **Languages:** Python 🐍, SQL,  
+- **AI/ML:** scikit-learn, PyTorch  
 - **Tools:** Git & GitHub, Docker, Linux  
-- **Other:** REST APIs, Data Analysis, Automation  
+- **Other:** REST APIs, Data Analysis, Automation, Fast API
 
 ---
 
