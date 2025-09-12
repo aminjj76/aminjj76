@@ -33,7 +33,7 @@ I enjoy transforming ideas into reality, solving real-world problems with techno
 | [🔹hospital_db_deskapp](https://github.com/aminjj76/hospital_db_deskapp) | A modern desktop application for hospital management | Python, SQLite,PyQt5 |
 | [🔹price-finder-docker](https://github.com/aminjj76/price-finder-docker) | an app can get price of a product from other platforms like basalalm ,torob and digikala and suggest price for this product | Python |
 | [🔹Bitcoin-price-tracker-with-API](https://github.com/aminjj76/Bitcoin-price-tracker-with-API) | Simple desktop Bitcoin tarcker built with PyQt5 | Python, PyQt5 
-| [🔹COVID-19 Italy Data Visualization]([https://github.com/aminjj76/Bitcoin-price-tracker-with-API](https://github.com/aminjj76/final_project)) | Simple desktop COVID-19 Italy Data Visualization with PyQt5 | Python, PyQt5, Matplotlib, Pandas, Numpy |
+| [🔹COVID-19 Italy Data Visualization](https://github.com/aminjj76/final_project) | Simple desktop COVID-19 Italy Data Visualization with PyQt5 | Python, PyQt5, Matplotlib, Pandas, Numpy |
 
 
 
