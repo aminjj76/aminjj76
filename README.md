@@ -16,10 +16,10 @@ I enjoy transforming ideas into reality, solving real-world problems with techno
 ---
 
 ## 🛠️ Skills  
-- **Languages:** Python 🐍, SQL,  
-- **AI/ML:** scikit-learn, PyTorch  
+- **Languages:** Python 🐍, SQL
+- **AI/ML:** scikit-learn 
 - **Tools:** Git & GitHub, Docker, Linux  
-- **Other:** REST APIs, Data Analysis, Automation, Fast API
+- **Other:** Data Analysis, Automation, Fast API
 
 ---
 
